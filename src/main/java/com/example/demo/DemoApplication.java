@@ -26,4 +26,8 @@ public class DemoApplication {
 
 	}
 	
+	public void method5() {
+
+	}
+	
 }
