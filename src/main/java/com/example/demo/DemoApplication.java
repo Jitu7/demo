@@ -29,9 +29,8 @@ public class DemoApplication {
 	public void method5() {
 
 	}
-	
-	public void method6() {
+
+	public void method8() {
 
 	}
-	// commit	
 }
