@@ -41,6 +41,11 @@ public class DemoApplication {
 	public void method8() {
 
 	}
+	
+	public void method10() {
+
+	}
+
 
 	public void method9() {
 
