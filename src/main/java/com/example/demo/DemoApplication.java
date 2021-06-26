@@ -30,4 +30,12 @@ public class DemoApplication {
 
 	}
 	
+	public void method6() {
+
+	}
+	
+	public void method7() {
+
+	}
+	
 }
