@@ -55,5 +55,8 @@ public class DemoApplication {
 
 	}
 	
+	public void method12() {
+
+	}
 
 }
