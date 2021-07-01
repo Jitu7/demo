@@ -62,5 +62,10 @@ public class DemoApplication {
 	public void method13() {
 
 	}
+	
+	public void method15() {
+
+	}
+
 
 }
